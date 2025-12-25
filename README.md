@@ -1,8 +1,8 @@
 # iOS Live Activities Demo: EV Charging Simulation
 
-
-
 A minimal SwiftUI app demonstrating Apple's **Live Activities** feature (iOS 16.1+). It simulates an electric vehicle (EV) charging session with real-time updates shown on the Lock Screen and Dynamic Island.
+
+<img src="./live-activities.jpeg" width="50%" height="50%"/>
 
 ## Features
 - Start, update, and end a Live Activity
